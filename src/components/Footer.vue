@@ -1,0 +1,9 @@
+<template>
+<div class="Group59" style="width: 100%; height: 321px; left: 0px; top: 2553px; position: absolute">
+  <div class="Rectangle146" style="width: 100%; height: 321px; left: 0px; top: 0px; position: absolute; background: black"></div>
+  <div class="cod" style="width: 227px; left: 553px; top: 54px; position: absolute"><span style="color: white; font-size: 15px; font-family: Satoshi; font-weight: 700; word-wrap: break-word">Brasil<br/></span><span style="color: white; font-size: 15px; font-family: Satoshi; font-weight: 400; word-wrap: break-word">Rua da Consolação, 4393º andar, Consolação São Paulo<br/><br/>+55 11 3280-0283</span></div>
+  <div class="cod1" style="width: 252px; left: 850px; top: 54px; position: absolute"><span style="color: white; font-size: 15px; font-family: Satoshi; font-weight: 700; word-wrap: break-word">Portugal<br/></span><span style="color: white; font-size: 15px; font-family: Satoshi; font-weight: 400; word-wrap: break-word">Av. República Nº6 - 1º Andar Lisboa<br/><br/>+351 916 029 443</span></div>
+  <div class="cod2" style="width: 252px; left: 850px; top: 155px; position: absolute"><span style="color: white; font-size: 15px; font-family: Satoshi; font-weight: 700; word-wrap: break-word">Holanda<br/></span><span style="color: white; font-size: 15px; font-family: Satoshi; font-weight: 400; word-wrap: break-word">Jasykoffstraat 631506AT ZaandamThe Netherlands<br/><br/>+31 622 333 744</span></div>
+  <img class="LogoLqdiPositivo1" style="width: 80px; height: 46.96px; left: 50px; top: 54px; position: absolute" src="../logo-lqdi.png" />
+</div>
+</template>
